@@ -207,16 +207,16 @@ a:hover:after {
 }
 #name{
     padding-left: 30px;
-    background:#222222 url(http://img7.uploadhouse.com/fileuploads/17737/177370145f09fe433945815665aa214f80dbc6af.png) no-repeat 8px 20px;
+    background:#222222 url(img/avatar.png) no-repeat 8px 20px;
 }
 #email{
       padding-left: 30px;
-     background:#222222 url(http://img6.uploadhouse.com/fileuploads/17737/177370138cc63992182149e9befabff3eafa6d23.png) no-repeat 8px 20px;
+     background:#222222 url(img/e-mail.png) no-repeat 8px 20px;
 }
 
 #subject{
       padding-left: 30px;
-      background:#222222 url(img/iccc.png) no-repeat 8px 20px;
+      background:#222222 url(img/subiect.png) no-repeat 8px 20px;
     
 }
 #shadow{
@@ -235,7 +235,7 @@ a:hover:after {
 }
 .message{
     border: 1px solid rgba(255,255,255,0.1);
-    background:#222222 url(http://img3.uploadhouse.com/fileuploads/17737/1773701229ed8c2f465a8274623ca8976adaf196.png) no-repeat 10px 8px;
+    background:#222222 url(img/message.png) no-repeat 10px 8px;
     height: 160px;
     width: 90%;
     resize: none;
