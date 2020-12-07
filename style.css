@@ -106,7 +106,7 @@ body,html {
 .main-menu ul { 
     line-height: 40px;
     padding: 0px;
-
+    
     list-style: none; 
     display: table;
     width: 600px;
@@ -199,7 +199,6 @@ body,html {
 }
 
 #s2 #ndpart .image{
-
     width: 100%;
     max-width: 280px;
     margin: 20px auto;
@@ -210,7 +209,13 @@ body,html {
     margin: -10px 0;
 } 
 
-.title{
+.image h2{
+    font-weight: 400;
+}
+
+
+#s2 .title{
+    font-weight: 700;
     margin-top: -10px;
     font-size: 2.1rem;
 }
@@ -245,7 +250,7 @@ body,html {
 
     width: 80%;  
     font-size: 1.3rem;
-    font-weight: 100;
+    font-weight: 400;
     padding: 6vw;
 
 }
@@ -441,7 +446,7 @@ iframe {
     padding-bottom: 2px;
     line-height: 22px;
     font-size: 14px;
-    font-weight: bold;
+    font-weight: 700;
     color: var(--font-color);
     text-shadow: 0 1px rgba(0, 0, 0, 0.05);
     background: #37bbe6;
